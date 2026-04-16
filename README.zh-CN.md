@@ -6,15 +6,15 @@
 
 # news-ui
 
-**把你的 AI 信息 skill 变成一份每天等你打开的报纸。**
+**这是一个生成报纸风格的Skill：把文字变成阅读体验极佳的页面，你的 AI 信息资讯也可以是时代周刊。**
 
 </div>
 
 ---
 
-## ✨ 快速体验
+## 🔑 快速开始
 
-**方式一：通过 Claude Code 启动（推荐）**
+**通过 Claude Code 启动**
 
 ```bash
 git clone https://github.com/jmtom-io/news-ui ~/.claude/skills/news-ui
@@ -170,8 +170,3 @@ news-ui/
 
 ---
 
-## ⭐ Star History
-
-如果这个项目对你有帮助，欢迎 Star！
-
-[![Star History Chart](https://api.star-history.com/svg?repos=jmtom-io/news-ui&type=Date)](https://star-history.com/#jmtom-io/news-ui&Date)
